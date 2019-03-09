@@ -1,2 +1,2 @@
-# Homeworks
-Here you can find homeworks that I ever done in university
+# Java projects
+Here you can projects on Java that I done in university
